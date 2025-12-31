@@ -3,6 +3,7 @@
         "annot",
         "cmap",
         "figsize",
+        "randn",
         "xlabel",
         "xticklabels",
         "ylabel",
